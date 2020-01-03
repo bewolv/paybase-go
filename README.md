@@ -1,17 +1,18 @@
-**Intro**
-Danger: Work in progress.
+# Intro
+
+**Danger: Work in progress.**
 We are building this api to target our own needs first, so a lot of methods may be unimplemented. You are welcome to contribute.
 
 This is a port of paybase (https://paybase.io) nodeJS api in go.
 
 Paybase Limited reserves all trademark and copyrights related to paybase. 
 
-**Contributing**
+# Contributing
 We encourage open-source contributions.
 
 Please read the guidelines from paybase before making a pull request.
 
-**License**
+# License
 Copyright © 2020 Wolv Ltd
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
